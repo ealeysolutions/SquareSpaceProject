@@ -104,8 +104,22 @@ Curate to your 12–20 strongest images per sub-group at launch — quality
 over quantity for an editorial-positioned portfolio.
 
 ### 6. Mini Sessions
-Seasonal Mini / Premium GFX Mini samples.
-*No samples on hand yet.*
+Well-stocked now, showing minis work for both individuals and small
+businesses/teams:
+- Solo/personal minis: downtown alley and storefront locations (string
+  lights, brick backdrop, "Alley Twenty Six" storefront sign), a florist
+  portrait on location at her shop
+- Small friend-group minis: colorful coordinated-but-not-matching outfits
+  in a brick alley with string lights — good example of a fun, casual
+  multi-person mini booking
+- Team/sponsor minis: two different cycling team kit sessions (One Love
+  Century/Major Taylor red-yellow-green kits; TFC Racing red kits) — both
+  individual portraits and full-team group shots, styled in downtown
+  streets and a parking garage for moody B&W treatment
+
+This category now has some of the most versatile location work in the
+portfolio — worth highlighting as an example of how a mini session can be
+customized to a client's brand/personality rather than one fixed backdrop.
 
 ### 7. Weddings & Proposals *(portfolio only — not a bookable/priced service)*
 Full ceremony, proposal sequence, and candid emotional moments (ring
