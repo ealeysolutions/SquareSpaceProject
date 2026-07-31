@@ -87,7 +87,21 @@ Two sub-groupings within one gallery page (or a filterable tag).
 - Live music: guitarist close-up (keep — strongest technically), moody
   B&W DJ portrait (keep — different performer type/mood). Cut the flutist
   shot as redundant genre coverage next to the guitarist.
-- Golf outing candid, dance floor/party moment — keep both, no redundancy
+- Golf outing candid — keep, no redundancy
+- Formal gala/anniversary event (new, brick-venue, string lights, elegant
+  attire) — recommended selects:
+  1. Dance floor candid, arm raised, tongue-out big-energy expression —
+     the strongest "party moment" shot in the whole portfolio, use this
+     over the older generic dance-floor placeholder
+  2. Large posed group photo (~13 guests) against a brick/sequin backdrop
+     — unique, shows capability for coordinated large-group event shots
+  3. DJ equipment/mixer close-up (color, hands on the decks) — a detail
+     shot distinct from the moody B&W DJ portrait above; keep both since
+     one is atmosphere/gear detail and the other is a performer portrait
+  4. One guest fashion portrait — keep the gold sequin gown portrait over
+     the black one-shoulder jumpsuit portrait (more visual drama/color);
+     cut the jumpsuit shot as redundant with this one (same shot type:
+     posed solo guest portrait near the tables)
 
 **Sports & Cycling Events — recommended selects:**
 1. Sprint-finish action shot — the strongest single image in the entire
