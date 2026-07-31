@@ -121,6 +121,12 @@ This category now has some of the most versatile location work in the
 portfolio — worth highlighting as an example of how a mini session can be
 customized to a client's brand/personality rather than one fixed backdrop.
 
+**Behind-the-scenes assets also on hand:** shots of the photographer
+working a mini session (lighting/softbox setup, directing a cycling client
+in an alley, gear laid out streetside). Not portfolio material, but good
+for the About page's "process" section or Instagram/social content — shows
+the working setup and professionalism behind the images.
+
 ### 7. Weddings & Proposals *(portfolio only — not a bookable/priced service)*
 Full ceremony, proposal sequence, and candid emotional moments (ring
 reveal, father/groom embrace). Shown to demonstrate range, but there is
