@@ -22,6 +22,10 @@ Park) and the greater Triangle area; travel available.
 Contact: lannyealeyphotography@gmail.com
 Standard gallery delivery: 30 days from session date (7-day rush available)
 
+Logo: confirmed final logo asset provided — circular gold/bronze emblem
+with a camera icon, "EALEY" in bold caps and "Images" in cursive script
+below it. Use as the header logo and favicon source in Squarespace.
+
 Note: Weddings is not part of the current official pricing sheet and is
 omitted from the site for now. Add back if/when wedding packages are
 finalized.

@@ -6,12 +6,36 @@ Each category below should be its own Squarespace gallery page for SEO
 (unique title/meta/URL) and easy navigation.
 
 ### 1. Portraits
-Standard/Premium portrait sessions — individuals, styled shoots.
-*No samples on hand yet — flag for photographer to select from catalog.*
+Standard/Premium portrait sessions — individuals, styled shoots. Samples
+now on hand:
+- Editorial B&W individual portrait, urban archway/architectural backdrop
+  (arms-crossed pose, strong shadow play)
+- Formal color portrait, natural outdoor backdrop, crossed-arm confident
+  pose (matches the "About" photographer photos — same subject, useful to
+  keep the two uses visually distinct)
 
 ### 2. Families & Groups
-Family lifestyle sessions, extended family/multi-group shoots.
-*No samples on hand yet.*
+Family lifestyle sessions, extended family/multi-group shoots. This is
+now one of the best-stocked categories — a wide range of samples on hand:
+- Multiple full mother/family styled sessions in downtown Raleigh/Cary
+  settings (formal black gown + boys in vest suits; leaf-toss, running,
+  candid-walk, and posed variations from the same session)
+- Multi-generational extended family group on outdoor stairs (6 people,
+  casual coordinated black/white)
+- Coordinated-outfit sibling group photos (all-red outdoor session with
+  leaf toss; fall-plaid family with barn/tree backdrop)
+- Traditional posed nuclear family portraits (safari-style outfits in a
+  park; forest/pine-trees backdrop; waterfall/architectural backdrop)
+- Candid/documentary moments: family walking away hand-in-hand (B&W),
+  proposal-reaction candid (daughters covering eyes while parents kiss in
+  background), mother-daughter hug, silhouette of three kids skipping
+  stones at a pond sunset
+- Action/playful shots: kids jumping by a tree, boy diving into a leaf
+  pile mid-air, family jumping together, boys running in vest suits
+  chasing each other, low-angle "looking up" family shot
+
+This category has enough range now to lead with variety: formal posed,
+candid documentary, and playful action, rather than only one style.
 
 ### 3. Grad & Prom
 Senior portraits, prom sessions. Samples now on hand span a strong range:
@@ -29,8 +53,7 @@ Senior portraits, prom sessions. Samples now on hand span a strong range:
 
 Good variety of detail shots (tassel/regalia close-ups) vs. full portraits
 vs. candid action vs. family/celebration moments — worth carrying that mix
-into the actual gallery
-rather than only using posed shots.
+into the actual gallery rather than only using posed shots.
 
 ### 4. Corporate & Branding
 Headshots, team/branding photography. Samples now on hand show strong
@@ -52,12 +75,30 @@ This is where the current sample photos live. Consider two sub-groupings
 within this one gallery page (or a filterable tag) rather than separate
 nav items, since both are "Events" from a pricing standpoint:
 
-- **Community & Lifestyle Events** — live music performer, family/kids
-  candids at outdoor events, baby shower group portrait, dance
-  floor/party moment
-- **Sports & Cycling Events** — race-day portraits, team kits, candid
-  action/rider shots (Lonerider, Carbon Racing, KRT/Major Taylor Team
-  photos)
+- **Community & Lifestyle Events** — family/kids candids at outdoor
+  events, dance floor/party moment, golf outing candid. Well-rounded
+  coverage across several event types on hand:
+  - Baby shower / gender reveal: decor detail shots ("BABY" block
+    letters), "Daddy to Be" pin detail shot, candid guest portraits,
+    vendor/catering shot (Italian ice cart), playful kid candid
+  - Milestone birthday party (80th): balloon-arch couple portrait, candid
+    cake-lighting moment, costume/theme guest portrait (disco look)
+  - Awards / gala: low-key stage moment with two speakers at a podium
+  - Live music performance: close-up guitarist mid-performance, flutist
+    on stage under colored lighting, moody B&W DJ portrait — good range
+    of performer/entertainment coverage for event bookings
+  This detail-shot + candid-guest + decor + performer mix is a good
+  template for how to cover any private party or gala booking.
+- **Sports & Cycling Events** — one of the strongest categories on hand,
+  with real editorial range:
+  - Action: high-intensity sprint-finish shot (two racers neck-and-neck,
+    genuine emotion), muddy post-cyclocross rider candid
+  - Team/group: Carbon Racing team candid on bikes joking around, KRT/
+    Major Taylor Team and Lonerider team kit photos
+  - Human/support side: spectators wrapped in blankets holding wine at a
+    race, B&W portrait of race organizer/support staff by a car
+  This category can lead with action + emotion rather than just posed team
+  shots — it's the most dynamic material in the whole portfolio right now.
 
 Curate to your 12–20 strongest images per sub-group at launch — quality
 over quantity for an editorial-positioned portfolio.
