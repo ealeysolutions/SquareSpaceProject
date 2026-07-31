@@ -1,179 +1,183 @@
-# Portfolio — Structure & Image Sourcing Plan
+# Portfolio — Structure & Curated Selects
 
 ## Categories (child pages under Portfolio)
 
 Each category below should be its own Squarespace gallery page for SEO
 (unique title/meta/URL) and easy navigation.
 
+This doc has been culled to a **recommended final select** per category —
+redundant variations from the same session and weaker frames have been cut
+so the portfolio reads tight and editorial rather than exhaustive. Cut
+reasoning is noted so you can override any call. Treat this as a curated
+starting point, not a locked decision.
+
 ### 1. Portraits
-Standard/Premium portrait sessions — individuals, styled shoots. Samples
-now on hand:
-- Editorial B&W individual portrait, urban archway/architectural backdrop
-  (arms-crossed pose, strong shadow play)
+**Keep both** (only two on hand, and they're genuinely different registers):
+- Editorial B&W individual portrait, urban archway backdrop, arms-crossed,
+  strong shadow play
 - Formal color portrait, natural outdoor backdrop, crossed-arm confident
-  pose (matches the "About" photographer photos — same subject, useful to
-  keep the two uses visually distinct)
+  pose
+
+No cuts — this category needs more samples, not fewer.
 
 ### 2. Families & Groups
-Family lifestyle sessions, extended family/multi-group shoots. This is
-now one of the best-stocked categories — a wide range of samples on hand:
-- Multiple full mother/family styled sessions in downtown Raleigh/Cary
-  settings (formal black gown + boys in vest suits; leaf-toss, running,
-  candid-walk, and posed variations from the same session)
-- Multi-generational extended family group on outdoor stairs (6 people,
-  casual coordinated black/white)
-- Coordinated-outfit sibling group photos (all-red outdoor session with
-  leaf toss; fall-plaid family with barn/tree backdrop)
-- Traditional posed nuclear family portraits (safari-style outfits in a
-  park; forest/pine-trees backdrop; waterfall/architectural backdrop)
-- Candid/documentary moments: family walking away hand-in-hand (B&W),
-  proposal-reaction candid (daughters covering eyes while parents kiss in
-  background), mother-daughter hug, silhouette of three kids skipping
-  stones at a pond sunset
-- Action/playful shots: kids jumping by a tree, boy diving into a leaf
-  pile mid-air, family jumping together, boys running in vest suits
-  chasing each other, low-angle "looking up" family shot
+**Recommended selects (12):**
+1. Formal mother + two sons portrait, black gown + vest suits — lead/hero
+   shot for the styled downtown session
+2. Leaf-toss action shot, same session — candid energy contrast to #1
+3. Multi-generational extended family on outdoor stairs (6 people)
+4. Coordinated all-red family session, leaf toss — distinct styling concept
+5. Fall-plaid family, barn/tree backdrop — distinct family, distinct season
+6. Traditional posed family portrait, waterfall/architectural backdrop —
+   strongest single backdrop of the "traditional posed" set
+7. Family walking away hand-in-hand (B&W) — quiet, understated closer
+8. Mother-daughter hug — genuine emotional candid
+9. Silhouette of three kids skipping stones at a pond, sunset — the
+   standout image of this entire category, cinematic and moving
+10. Boy diving into a leaf pile mid-air — most dynamic single frame of the
+    "playful action" cluster
+11. Family jumping together — group version of that same playful energy
+12. Kids covering their eyes while parents kiss in the background — unique
+    storytelling/humor beat, nothing else like it in the set
 
-This category has enough range now to lead with variety: formal posed,
-candid documentary, and playful action, rather than only one style.
+**Cut as redundant (same session/concept, weaker or duplicate coverage):**
+- Additional running/candid-walk variations from the mother+sons session
+  (#1/#2 already cover posed + candid from that shoot)
+- Safari-style park family portrait and forest/pine-trees backdrop family —
+  both redundant with #5/#6 as "traditional posed in nature," keeping only
+  the two strongest backdrops
+- Boys running in vest suits chasing each other and kids jumping by a tree
+  — redundant with #10/#11, same energy already represented
+- Low-angle "looking up" family shot — weakest composition of the set
 
 ### 3. Grad & Prom
-Senior portraits, prom sessions. Samples now on hand span a strong range:
-- Doctoral graduate — regalia and tassel detail shots (2022) against a
-  brick backdrop, plus a sharp suited portrait with the cap/tassel visible
-- College grad — HBCU pride sweatshirt, tassel detail, campus setting
-  (2021)
-- High school grad — cap-toss action shot in front of the school building
-- Family celebration circle — extended family surrounding the graduate,
-  hands joined, downtown setting (strong crossover shot for Families &
-  Groups too — consider using in both galleries)
-- College athletic recruit — swimmer in team gear with goggles as a prop,
-  editorial B&W treatment (good example for sports/athletic senior
-  sessions specifically)
-
-Good variety of detail shots (tassel/regalia close-ups) vs. full portraits
-vs. candid action vs. family/celebration moments — worth carrying that mix
-into the actual gallery rather than only using posed shots.
+**Keep all six** — no real redundancy, each shows a different angle
+(detail shot, posed portrait, candid action, family moment, niche/athletic):
+1. Doctoral graduate — suited portrait with cap/tassel visible (lead shot)
+2. Doctoral graduate — regalia/tassel detail shot
+3. College grad — HBCU pride sweatshirt, tassel detail
+4. High school grad — cap-toss action shot
+5. Family celebration circle around the graduate (cross-list in Families
+   & Groups too)
+6. College athletic recruit — swimmer with goggles, editorial B&W
 
 ### 4. Corporate & Branding
-Headshots, team/branding photography. Samples now on hand show strong
-range across settings:
-- Individual executive/professional portraits on location (outdoor
-  architectural backdrop, waterfall feature)
-- Law firm team headshot set (BPW — Batch, Poore & Williams) — consistent
-  branded-wall backdrop and lighting across multiple staff, good example
-  to show corporate clients for team-wide headshot day bookings
-- Clinical/workplace environmental headshot (physician in his own
-  workspace, name badge visible) — shows on-location versatility beyond
-  studio-style setups
+**Recommended selects:**
+1. Individual executive portrait, waterfall/architectural backdrop — pick
+   the stronger of the two near-identical versions sent
+2. BPW law firm team set — keep 3–4 representative headshots from the set
+   (not all of them); the selling point is backdrop/lighting consistency,
+   which 3–4 shots already demonstrate
+3. Clinical/workplace environmental headshot (physician in his own space)
 
-The "Kings Rule Together" cycling team group shot could also cross-list
-here if it was a sponsored/branded shoot.
+**Cut:** the second, near-duplicate individual waterfall-backdrop portrait
+— same subject, same setting, no added variety.
 
 ### 5. Events
-This is where the current sample photos live. Consider two sub-groupings
-within this one gallery page (or a filterable tag) rather than separate
-nav items, since both are "Events" from a pricing standpoint:
+Two sub-groupings within one gallery page (or a filterable tag).
 
-- **Community & Lifestyle Events** — family/kids candids at outdoor
-  events, dance floor/party moment, golf outing candid. Well-rounded
-  coverage across several event types on hand:
-  - Baby shower / gender reveal: decor detail shots ("BABY" block
-    letters), "Daddy to Be" pin detail shot, candid guest portraits,
-    vendor/catering shot (Italian ice cart), playful kid candid
-  - Milestone birthday party (80th): balloon-arch couple portrait, candid
-    cake-lighting moment, costume/theme guest portrait (disco look)
-  - Awards / gala: low-key stage moment with two speakers at a podium
-  - Live music performance: close-up guitarist mid-performance, flutist
-    on stage under colored lighting, moody B&W DJ portrait — good range
-    of performer/entertainment coverage for event bookings
-  This detail-shot + candid-guest + decor + performer mix is a good
-  template for how to cover any private party or gala booking.
-- **Sports & Cycling Events** — one of the strongest categories on hand,
-  with real editorial range:
-  - Action: high-intensity sprint-finish shot (two racers neck-and-neck,
-    genuine emotion), muddy post-cyclocross rider candid
-  - Team/group: Carbon Racing team candid on bikes joking around, KRT/
-    Major Taylor Team and Lonerider team kit photos
-  - Human/support side: spectators wrapped in blankets holding wine at a
-    race, B&W portrait of race organizer/support staff by a car
-  This category can lead with action + emotion rather than just posed team
-  shots — it's the most dynamic material in the whole portfolio right now.
+**Community & Lifestyle Events — recommended selects:**
+- Baby shower/gender reveal: "BABY" block letters decor shot, "Daddy to
+  Be" pin detail shot, one candid guest portrait (cut the second guest
+  candid and the vendor/Italian-ice-cart shot as lower-priority filler —
+  decor + detail + one candid guest tells the story without padding)
+- 80th birthday: balloon-arch couple portrait, cake-lighting candid (cut
+  the costume/disco guest portrait — fun, but not essential to the set)
+- Awards/gala: podium speaker shot (only one — keep)
+- Live music: guitarist close-up (keep — strongest technically), moody
+  B&W DJ portrait (keep — different performer type/mood). Cut the flutist
+  shot as redundant genre coverage next to the guitarist.
+- Golf outing candid, dance floor/party moment — keep both, no redundancy
 
-Curate to your 12–20 strongest images per sub-group at launch — quality
-over quantity for an editorial-positioned portfolio.
+**Sports & Cycling Events — recommended selects:**
+1. Sprint-finish action shot — the strongest single image in the entire
+   portfolio, leads this category
+2. Muddy post-cyclocross rider candid
+3. Carbon Racing team candid on bikes, joking around
+4. Spectators wrapped in blankets holding wine — unique atmosphere/
+   human-interest angle
+5. B&W portrait of race organizer/support staff by a car
+
+**Cut:** the posed KRT/Major Taylor Team and Lonerider team-kit photos
+from this category — those are better represented as **Mini Sessions**
+work (see below) where posed team-kit portraits already live. Keep Events
+focused on action/candid/documentary coverage, not posed team shots.
 
 ### 6. Mini Sessions
-Well-stocked now, showing minis work for both individuals and small
-businesses/teams:
-- Solo/personal minis: downtown alley and storefront locations (string
-  lights, brick backdrop, "Alley Twenty Six" storefront sign), a florist
-  portrait on location at her shop
-- Small friend-group minis: colorful coordinated-but-not-matching outfits
-  in a brick alley with string lights — good example of a fun, casual
-  multi-person mini booking
-- Team/sponsor minis: two different cycling team kit sessions (One Love
-  Century/Major Taylor red-yellow-green kits; TFC Racing red kits) — both
-  individual portraits and full-team group shots, styled in downtown
-  streets and a parking garage for moody B&W treatment
+**Recommended selects:**
+1. "Do Epic Shit" tank top mini, arms spread in the string-light alley —
+   pick this version over the near-duplicate storefront-sign pose from the
+   same session (more dynamic, same subject/wardrobe/location)
+2. Florist portrait on location at her shop
+3. Friend-group colorful alley mini (4 women)
+4. One Love Century/Major Taylor team mini — 1 individual + 1 group shot
+5. TFC Racing team mini — 1 individual + 1 group shot
 
-This category now has some of the most versatile location work in the
-portfolio — worth highlighting as an example of how a mini session can be
-customized to a client's brand/personality rather than one fixed backdrop.
+Both cycling team sessions are kept (different real clients, useful for
+attracting similar team/sponsor bookings) but trimmed to a best individual
++ best group shot each rather than the full shoot.
 
-**Behind-the-scenes assets also on hand:** shots of the photographer
-working a mini session (lighting/softbox setup, directing a cycling client
-in an alley, gear laid out streetside). Not portfolio material, but good
-for the About page's "process" section or Instagram/social content — shows
-the working setup and professionalism behind the images.
+**Behind-the-scenes assets (not portfolio, but keep for other use):**
+shots of the photographer working a mini session (lighting/softbox setup,
+directing a client in an alley, gear laid out streetside) — good for the
+About page's "process" section or social content.
 
 ### 7. Weddings & Proposals *(portfolio only — not a bookable/priced service)*
-Strong, varied coverage on hand. Shown to demonstrate range, but there is
-no Weddings package on the Services & Pricing page since it's not in the
-confirmed pricing sheet. If this becomes a bookable service, this gallery
-gets promoted to a full nav category with its own pricing.
+No Weddings package exists on the Services & Pricing page (not in the
+confirmed pricing sheet); this gallery exists purely to show range. If it
+becomes a bookable service later, promote it to a full nav category.
 
-- **Wedding day**: full ceremony (bride/groom back-to-back with flower
-  girls), candid father/groom embrace
-- **Public proposal event**: full narrative sequence — rose petals staged
-  on the ground, the kneel-and-ring-box moment, her reaction, a crowd of
-  family/friends filming — genuinely strong storytelling coverage of a
-  planned/staged proposal with an audience
-- **Engagement session**: separate outdoor session (rustic log-cabin
-  backdrop, tree-trunk portraits, walking shots in both color and B&W,
-  ring-reveal close-up) — distinct from the proposal-day coverage above,
-  shot afterward as a dedicated couple's session
+**Wedding day (keep both — only one moment each):**
+- Full ceremony, bride/groom back-to-back with flower girls
+- Candid father/groom embrace
 
-This is enough material to eventually support a real "Engagements &
-Proposals" bookable offering even without full wedding-day packages —
-worth flagging to the photographer as a lower-commitment add to pricing
-if there's demand, separate from the full Weddings question.
+**Public proposal event (keep 3 — the narrative arc):**
+- Roses staged on the ground + the couple facing each other, tension
+  building
+- The kneel-and-ring-box moment
+- Her reaction, hands covering her face, crowd filming in the background
+
+**Engagement session — recommended selects (5, cut heavily from the full
+shoot):**
+1. Posed portrait, rustic log-cabin backdrop
+2. One walking shot, B&W (most editorial of the several walking variations
+   sent)
+3. Forehead-kiss embrace
+4. Playful leg-lift moment — the one genuinely distinct "fun" pose
+5. Ring/hands detail shot (interlocked hands, ring visible)
+
+**Cut:** the remaining walking shots (color version, "walking toward
+camera" B&W, garden-pathway version), the tree-trunk portrait, and the
+second forehead-kiss angle — all are variations on the same few beats
+already covered by the 5 selects above. This was the single most
+over-shot set in the whole portfolio; 5 tight images read stronger than
+15 similar ones.
 
 ### 8. Lifestyle & Scenes *(supplementary — style/range gallery)*
-Not tied to a specific bookable package; this category exists to show
-range and editing consistency across non-session work:
+Not tied to a bookable package; shows range and editing consistency.
 
-- **Street & Lifestyle** — candid street portraits, Durham Farmers Market
-  vendor/product shots
-- **Scenes & Architecture** — Charlotte street scene, Biltmore Estate,
-  Summit Church, garden/pond reflection, downtown demolition scene
+**Keep:**
+- Street & Lifestyle: one candid street portrait (keep the stronger of
+  the two similar B&W portraits of the woman in the hat — cut the
+  duplicate), Durham Farmers Market vendor/product shot
+- Scenes & Architecture: Charlotte street scene, Biltmore Estate, Summit
+  Church, garden/pond reflection, downtown demolition scene — all keep,
+  no redundancy, each is a distinct location/subject
 
-Consider whether this becomes its own "Fine Art" nav item or stays folded
-into the general Portfolio grid as texture/variety among the category
-pages — recommend the latter to keep nav focused on bookable services.
+Recommend folding this into the general Portfolio grid as texture/variety
+rather than its own nav item, to keep nav focused on bookable services.
 
 ## About Page Photos
-Real photos of the photographer are now available: candid outdoor
-portrait, behind-the-scenes with camera gear (GFX + second body on strap),
-and a candid shot with a colleague/friend. Use the gear/camera-in-hand shot
-as the primary About page image — it reinforces the Fujifilm-system
-credibility mentioned in the bio copy.
+Real photos of the photographer are available: candid outdoor portrait,
+behind-the-scenes with camera gear (GFX + second body on strap), and a
+candid shot with a colleague/friend. Use the gear/camera-in-hand shot as
+the primary About page image.
 
 ## Image handling notes
 - Chat-shared images aren't saved into this repository automatically —
-  when you're ready to build the actual galleries, upload the source
-  files directly into Squarespace (or share a folder/drive link and I can
-  help organize captions/alt text).
+  upload the selected files directly into Squarespace when building the
+  galleries (or share a folder/drive link and I can help organize
+  captions/alt text).
 - For each image used, plan a short SEO-friendly alt text, e.g. "Cary, NC
   cyclist portrait at community bike race" rather than a generic filename.
 - Keep consistent aspect-ratio cropping within each gallery for a clean
