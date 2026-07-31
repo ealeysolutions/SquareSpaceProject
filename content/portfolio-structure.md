@@ -128,11 +128,26 @@ for the About page's "process" section or Instagram/social content — shows
 the working setup and professionalism behind the images.
 
 ### 7. Weddings & Proposals *(portfolio only — not a bookable/priced service)*
-Full ceremony, proposal sequence, and candid emotional moments (ring
-reveal, father/groom embrace). Shown to demonstrate range, but there is
+Strong, varied coverage on hand. Shown to demonstrate range, but there is
 no Weddings package on the Services & Pricing page since it's not in the
 confirmed pricing sheet. If this becomes a bookable service, this gallery
 gets promoted to a full nav category with its own pricing.
+
+- **Wedding day**: full ceremony (bride/groom back-to-back with flower
+  girls), candid father/groom embrace
+- **Public proposal event**: full narrative sequence — rose petals staged
+  on the ground, the kneel-and-ring-box moment, her reaction, a crowd of
+  family/friends filming — genuinely strong storytelling coverage of a
+  planned/staged proposal with an audience
+- **Engagement session**: separate outdoor session (rustic log-cabin
+  backdrop, tree-trunk portraits, walking shots in both color and B&W,
+  ring-reveal close-up) — distinct from the proposal-day coverage above,
+  shot afterward as a dedicated couple's session
+
+This is enough material to eventually support a real "Engagements &
+Proposals" bookable offering even without full wedding-day packages —
+worth flagging to the photographer as a lower-commitment add to pricing
+if there's demand, separate from the full Weddings question.
 
 ### 8. Lifestyle & Scenes *(supplementary — style/range gallery)*
 Not tied to a specific bookable package; this category exists to show
