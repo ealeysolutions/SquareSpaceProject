@@ -14,8 +14,16 @@ Family lifestyle sessions, extended family/multi-group shoots.
 *No samples on hand yet.*
 
 ### 3. Grad & Prom
-Senior portraits, prom sessions.
-*No samples on hand yet.*
+Senior portraits, prom sessions. Samples now on hand span a strong range:
+- Doctoral graduate — regalia and tassel detail shots (2022) against a
+  brick backdrop, plus a sharp suited portrait with the cap/tassel visible
+- College grad — HBCU pride sweatshirt, tassel detail, campus setting
+  (2021)
+- High school grad — cap-toss action shot in front of the school building
+
+Good variety of detail shots (tassel/regalia close-ups) vs. full portraits
+vs. candid action — worth carrying that mix into the actual gallery
+rather than only using posed shots.
 
 ### 4. Corporate & Branding
 Headshots, team/branding photography. Samples now on hand show strong
