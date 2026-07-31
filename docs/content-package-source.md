@@ -10,14 +10,21 @@ update this file first, then propagate changes to the page files in `/content`.
 ## 1. Brand Identity & Positioning
 
 EaleyImages delivers clean, editorial, modern photography based in Cary, NC.
-Specialties include portraits, families, seniors, corporate branding, events,
-weddings, and premium mini sessions. The aesthetic is minimal, premium, and
-natural, supported by professional Fujifilm gear (GFX 100S II, X-H2S, X100V).
-Galleries are delivered via CloudSpot, and payments are handled through Square.
+Specialties include portraits, families/groups, grad & prom, corporate
+branding, events, and premium mini sessions. The aesthetic is minimal,
+premium, and natural, supported by professional Fujifilm gear (GFX 100S II,
+X-H2S, X100V). Galleries are delivered via CloudSpot, and payments are
+handled through Square.
 
 Owner/photographer: Lanny Ealey
 Service area: Based in Cary, NC; shoots throughout RTP (Research Triangle
 Park) and the greater Triangle area; travel available.
+Contact: lannyealeyphotography@gmail.com
+Standard gallery delivery: 30 days from session date (7-day rush available)
+
+Note: Weddings is not part of the current official pricing sheet and is
+omitted from the site for now. Add back if/when wedding packages are
+finalized.
 
 ## 2. Homepage Hero Section
 
@@ -37,47 +44,64 @@ to be easy, comfortable, and enjoyable.
 
 ## 4. Full Pricing Structure
 
+**CONFIRMED FINAL — from EaleyImages_Pricing_Sheet.docx (uploaded twice,
+byte-identical both times). This supersedes any earlier pricing figures.**
+
 ### Portraits
-- Standard Portrait — $350 — 1 hour • 20 images • 1–2 outfits • 1 location
-- Premium Portrait — $550 — 90 minutes • 35 images • multi-location •
+- Standard Session — $200 — 1 hour • 20 images • 1–2 outfits • 1 location
+- Premium Session — $350 — 90 minutes • 35 images • multi-location •
   priority editing • optional GFX upgrade
 
-### Families
-- Family Lifestyle — $400 — 1 hour • up to 6 people • 30 images
-- Extended Family — $600 — 90 minutes • multi-group • 40 images
+### Families / Groups
+- Family Lifestyle — $250 — 1 hour • up to 6 people • 30 images
+- Extended Family — $375 — 90 minutes • multi-group • 40 images
 
-### Seniors
-- Senior Portrait Experience — $450 — 90 minutes • 2–3 outfits • 30 images
-- Senior Deluxe — $650 — 2 hours • 3–4 outfits • 45 images • priority editing
+### Grad & Prom
+- Senior Portrait Experience — $250 — 1 hour • 2 outfits • 20 images
+- Senior Deluxe — $350 — 2 hours • 3–4 outfits • 45 images • priority editing
+- Same packages and pricing apply to prom sessions — no separate prom
+  package needed.
 
 ### Corporate
-- Headshots — $200/person — 2 retouched images
-- Team & Branding — starting at $600 — half-day coverage
-- Team rates: 6–20 people: $125/person • 20+: $100/person
+- Headshots — $75/person — 2 retouched images
+- Team & Branding — $350 — half-day coverage, up to 5 people
+- Team rates: 6–20 people: $70/person • 20+ people: $55/person (per-person
+  rate replaces the flat price above 5 people)
 
 ### Events
-- Event Coverage — $250/hr (2-hour minimum)
-- 3-Hour Package — $700
-- Half-Day — $900
-- Full-Day — $1,600
-
-### Weddings
-- Micro Wedding — $900 (2 hours)
-- Essential — $2,000 (6 hours)
-- Signature — $3,200 (8 hours + engagement session)
-- Luxury — $4,500 (10 hours + GFX + second shooter)
+- Event Coverage — $175/hr (2-hour minimum)
+- 3-Hour Package — $400
+- Half-Day (4 hours) — $500
+- Full-Day (8 hours) — $900
+- Travel and meal per diem costs are additional and vary based on event
+  location and duration.
 
 ### Mini Sessions
-- Seasonal Mini — $250 — 20 minutes • 10 images
-- Premium GFX Mini — $350 — 20 minutes • 15 images • priority editing
+- Seasonal Mini — $100 — 20 minutes • 10 images
+- Premium GFX Mini — $150 — 20 minutes • 15 images • priority editing
 
 ### Add-Ons
-- Extra Images — $15 each
-- Full Gallery Upgrade — $150
-- Additional Time — $150 per 30 minutes
-- Rush Delivery — $100
-- Social Media Cut — $50
-- 48-Hour Preview Set — $75
+- Extra Images — $10 each — available for Portrait, Family, Grad & Prom,
+  and Mini Sessions; not applicable to Events (handled case-by-case)
+- Full Gallery Upgrade — $75 — available for Portrait, Family, Grad & Prom,
+  and Engagement sessions (every usable image, not just the curated
+  selection); not applicable to Corporate or Event photography, where all
+  usable images are delivered as part of the package
+- Session Add-on Time — $75 / 30 min — Portraits, Families/Groups, Grad &
+  Prom, and Mini Sessions
+- Extended Coverage — $100 / 30 min — Corporate and Events
+- Rush Delivery — $50 — expedites gallery to 7-day turnaround instead of
+  the standard 30 days
+
+### Booking & Payment Policy
+- A 25% non-refundable retainer is due at booking to reserve the date for
+  all Portrait, Family/Groups, Grad & Prom, Corporate, and Mini Session
+  bookings. Remaining balance is due on or before the session date.
+- Sessions and events may be rescheduled with at least 48 hours' notice at
+  no additional charge. Retainers are non-refundable but transferable to a
+  new date within 90 days of the original booking.
+- Pricing current as of 2026. Contact lannyealeyphotography@gmail.com to
+  book or ask questions.
 
 ## 5. Prints & Albums — Page Content
 
@@ -91,8 +115,8 @@ to be easy, comfortable, and enjoyable.
   materials. Starting at $550.
 - Canvas Gallery Wraps — Soft texture, bold presence, ready to hang.
   Starting at $100.
-- Metal Prints — Modern, vibrant aluminum prints. Starting at $120.
-- Print Sets — Curated bundles in 4×6, 5×7, and 8×10. Starting at $45.
+- Metal Prints — Modern, vibrant aluminum prints. Starting at $125.
+- Print Sets — Curated bundles in 4×6, 5×7, and 8×10. Starting at $50.
 - Framed Collections — Coordinated wall groupings for home or office.
   Starting at $250.
 - Print Credit — Available in $50, $100, and $200 increments.
