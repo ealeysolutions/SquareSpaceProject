@@ -9,6 +9,8 @@ Content and structure package for the EaleyImages Squarespace site
   confirmed pricing, and product details. Update this first if anything
   changes.
 - `docs/sitemap.md` — navigation and page structure plan.
+- `docs/squarespace-setup-guide.md` — step-by-step walkthrough for
+  building the site in the Squarespace editor from this content.
 - `content/homepage.md` — page-ready homepage copy.
 - `content/about.md` — page-ready About page copy.
 - `content/portfolio-structure.md` — portfolio categories and image plan.
