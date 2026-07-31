@@ -18,9 +18,19 @@ Senior portraits, prom sessions.
 *No samples on hand yet.*
 
 ### 4. Corporate & Branding
-Headshots, team/branding photography.
-*No samples on hand yet — the "Kings Rule Together" cycling team group
-shot could cross-list here if it was a sponsored/branded shoot.*
+Headshots, team/branding photography. Samples now on hand show strong
+range across settings:
+- Individual executive/professional portraits on location (outdoor
+  architectural backdrop, waterfall feature)
+- Law firm team headshot set (BPW — Batch, Poore & Williams) — consistent
+  branded-wall backdrop and lighting across multiple staff, good example
+  to show corporate clients for team-wide headshot day bookings
+- Clinical/workplace environmental headshot (physician in his own
+  workspace, name badge visible) — shows on-location versatility beyond
+  studio-style setups
+
+The "Kings Rule Together" cycling team group shot could also cross-list
+here if it was a sponsored/branded shoot.
 
 ### 5. Events
 This is where the current sample photos live. Consider two sub-groupings
@@ -40,6 +50,33 @@ over quantity for an editorial-positioned portfolio.
 ### 6. Mini Sessions
 Seasonal Mini / Premium GFX Mini samples.
 *No samples on hand yet.*
+
+### 7. Weddings & Proposals *(portfolio only — not a bookable/priced service)*
+Full ceremony, proposal sequence, and candid emotional moments (ring
+reveal, father/groom embrace). Shown to demonstrate range, but there is
+no Weddings package on the Services & Pricing page since it's not in the
+confirmed pricing sheet. If this becomes a bookable service, this gallery
+gets promoted to a full nav category with its own pricing.
+
+### 8. Lifestyle & Scenes *(supplementary — style/range gallery)*
+Not tied to a specific bookable package; this category exists to show
+range and editing consistency across non-session work:
+
+- **Street & Lifestyle** — candid street portraits, Durham Farmers Market
+  vendor/product shots
+- **Scenes & Architecture** — Charlotte street scene, Biltmore Estate,
+  Summit Church, garden/pond reflection, downtown demolition scene
+
+Consider whether this becomes its own "Fine Art" nav item or stays folded
+into the general Portfolio grid as texture/variety among the category
+pages — recommend the latter to keep nav focused on bookable services.
+
+## About Page Photos
+Real photos of the photographer are now available: candid outdoor
+portrait, behind-the-scenes with camera gear (GFX + second body on strap),
+and a candid shot with a colleague/friend. Use the gear/camera-in-hand shot
+as the primary About page image — it reinforces the Fujifilm-system
+credibility mentioned in the bio copy.
 
 ## Image handling notes
 - Chat-shared images aren't saved into this repository automatically —
