@@ -20,9 +20,16 @@ Senior portraits, prom sessions. Samples now on hand span a strong range:
 - College grad — HBCU pride sweatshirt, tassel detail, campus setting
   (2021)
 - High school grad — cap-toss action shot in front of the school building
+- Family celebration circle — extended family surrounding the graduate,
+  hands joined, downtown setting (strong crossover shot for Families &
+  Groups too — consider using in both galleries)
+- College athletic recruit — swimmer in team gear with goggles as a prop,
+  editorial B&W treatment (good example for sports/athletic senior
+  sessions specifically)
 
 Good variety of detail shots (tassel/regalia close-ups) vs. full portraits
-vs. candid action — worth carrying that mix into the actual gallery
+vs. candid action vs. family/celebration moments — worth carrying that mix
+into the actual gallery
 rather than only using posed shots.
 
 ### 4. Corporate & Branding
