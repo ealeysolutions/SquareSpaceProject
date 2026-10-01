@@ -1,12 +1,14 @@
-"""Prepare the photo: cut out the couple, drop the hair beside the cap,
+"""Prepare the photo: cut out the couple, optionally drop the hair beside the cap,
 and replace the garage door with a soft blurred background.
-usage: python3 prep.py <photo.jpg>   -> writes prepped.png + subject_mask.png"""
+usage: python3 prep.py <photo.jpg> [--keep-hair]   -> writes prepped.png + subject_mask.png
+--keep-hair: skip hair removal (use when the hair was already cleaned up in Lightroom)."""
 import sys, os
 import numpy as np, cv2
 from PIL import Image
 from rembg import remove, new_session
 
 D = os.path.dirname(os.path.abspath(__file__))
+KEEP_HAIR = '--keep-hair' in sys.argv
 src = Image.open(sys.argv[1]).convert('RGB')
 sw, sh = src.size
 k = sw / 4000                                  # polygons were drawn on the 4000px export of DSCF6597
@@ -22,15 +24,9 @@ cv2.fillPoly(zone, [poly.astype(np.int32)], 1)
 r, g, b = rgb[..., 0], rgb[..., 1], rgb[..., 2]
 luma = 0.299 * r + 0.587 * g + 0.114 * b
 cap = (luma > 200) | (b > r + 40)
-# his left ear sits against her braids just left of the brim. No outline is drawn: the
-# original pixels in a padded zone around the ear are kept untouched and fade out softly
-# into the blurred background, so the ear is exactly as photographed.
-ear = np.zeros((sh, sw), np.float32)
-cv2.ellipse(ear, (int(1779 * k), int(1322 * k)), (int(27 * k), int(62 * k)), 10, 0, 360, 1, -1)
-ear = cv2.GaussianBlur(ear, (0, 0), 5 * k)
 hair = (zone > 0) & ~cap & (mask > 0.2)
 hair = cv2.dilate(hair.astype(np.uint8), np.ones((5, 5), np.uint8))
-hair = cv2.GaussianBlur(hair.astype(np.float32), (0, 0), 1.5 * k) * (1 - ear)
+hair = cv2.GaussianBlur(hair.astype(np.float32), (0, 0), 1.5 * k) * (0.0 if KEEP_HAIR else 1.0)
 mask = np.clip(mask - hair, 0, 1)
 
 # --- background plate: inpaint the people out at low res, then blur heavily
