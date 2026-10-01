@@ -15,7 +15,7 @@ DPI = 300
 TRIM_W, TRIM_H = 5 * DPI, 7 * DPI          # 5x7 in
 BLEED = round(0.125 * DPI + 0.01)          # 1/8 in each side
 W, H = TRIM_W + 2 * BLEED, TRIM_H + 2 * BLEED
-CENTER_X = 0.505                           # subject centre as a fraction of source width
+CENTER_X = None                            # subject centre as a fraction of source width (None = auto)
 SHIRT_MARGIN = 0.09                        # keep text this fraction of shirt width in from each edge
 INK = (28, 28, 30)
 
@@ -26,6 +26,10 @@ TOP, DATE, PLACE = "save the date", "4.30.27", "DURHAM, NC"
 src = Image.open(SRC).convert('RGB')
 sw, sh = src.size
 cw = round(sh * W / H)
+_m = np.asarray(Image.open(MASK).convert('L')) > 128
+if CENTER_X is None:                       # centre on the subject's columns
+    cols = np.flatnonzero(_m[int(sh * 0.6):].any(axis=0))
+    CENTER_X = (cols.min() + cols.max()) / 2 / sw
 x0 = max(0, min(sw - cw, round(sw * CENTER_X - cw / 2)))
 box = (x0, 0, x0 + cw, sh)
 img = src.crop(box).resize((W, H), Image.LANCZOS)
