@@ -22,15 +22,12 @@ cv2.fillPoly(zone, [poly.astype(np.int32)], 1)
 r, g, b = rgb[..., 0], rgb[..., 1], rgb[..., 2]
 luma = 0.299 * r + 0.587 * g + 0.114 * b
 cap = (luma > 200) | (b > r + 40)
-# his left ear sits against her braids just left of the brim: protect it
-ear = np.zeros((sh, sw), np.uint8)
-# traced from the original frame: the lit part of the ear between her braids and the brim
-ear_poly = np.array([(1746, 1298), (1747, 1283), (1752, 1273), (1760, 1267), (1772, 1264),
-                     (1786, 1265), (1798, 1272), (1807, 1290), (1807, 1398), (1799, 1403),
-                     (1790, 1400), (1781, 1382), (1768, 1354), (1755, 1331), (1747, 1314)],
-                    np.float32) * k
-cv2.fillPoly(ear, [ear_poly.astype(np.int32)], 1)
-ear = cv2.GaussianBlur(ear.astype(np.float32), (0, 0), 2.0 * k)   # match the lens softness at that depth
+# his left ear sits against her braids just left of the brim. No outline is drawn: the
+# original pixels in a padded zone around the ear are kept untouched and fade out softly
+# into the blurred background, so the ear is exactly as photographed.
+ear = np.zeros((sh, sw), np.float32)
+cv2.ellipse(ear, (int(1779 * k), int(1322 * k)), (int(27 * k), int(62 * k)), 10, 0, 360, 1, -1)
+ear = cv2.GaussianBlur(ear, (0, 0), 5 * k)
 hair = (zone > 0) & ~cap & (mask > 0.2)
 hair = cv2.dilate(hair.astype(np.uint8), np.ones((5, 5), np.uint8))
 hair = cv2.GaussianBlur(hair.astype(np.float32), (0, 0), 1.5 * k) * (1 - ear)
