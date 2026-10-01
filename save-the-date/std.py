@@ -2,7 +2,7 @@ import sys, os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 D = os.path.dirname(os.path.abspath(__file__))
 F = lambda n: os.path.join(D, 'fonts', n)
-SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(D, '..', 'images', '1.jpg')
+SRC = sys.argv[1]  # usage: python3 std.py <photo.jpg>
 OUT = os.path.join(D, 'out')
 
 DPI = 300
