@@ -16,15 +16,23 @@ mask = np.asarray(remove(src, session=new_session('u2net_human_seg'), only_mask=
 
 # --- hair: dark, non-cap pixels inside a zone left of the cap/neck
 zone = np.zeros((sh, sw), np.uint8)
-poly = np.array([(1640, 1120), (1785, 1120), (1785, 1290), (1798, 1290), (1800, 1400),
+poly = np.array([(1640, 1120), (1808, 1120), (1808, 1255), (1785, 1255), (1785, 1290), (1798, 1290), (1800, 1400),
                  (1820, 1410), (1822, 1540), (1640, 1545)], np.float32) * k
 cv2.fillPoly(zone, [poly.astype(np.int32)], 1)
 r, g, b = rgb[..., 0], rgb[..., 1], rgb[..., 2]
 luma = 0.299 * r + 0.587 * g + 0.114 * b
 cap = (luma > 200) | (b > r + 40)
+# his left ear sits against her braids just left of the brim: protect it
+ear = np.zeros((sh, sw), np.uint8)
+ear_poly = np.array([(1750, 1268), (1762, 1257), (1782, 1257), (1803, 1285), (1805, 1380),
+                     (1790, 1396), (1774, 1384), (1757, 1336), (1748, 1296)], np.float32) * k
+cv2.fillPoly(ear, [ear_poly.astype(np.int32)], 1)
+# round the corners, then keep a soft edge so it blends like the other ear
+ear = (cv2.GaussianBlur(ear.astype(np.float32), (0, 0), 5 * k) > 0.5).astype(np.float32)
+ear = cv2.GaussianBlur(ear, (0, 0), 2.0 * k)
 hair = (zone > 0) & ~cap & (mask > 0.2)
 hair = cv2.dilate(hair.astype(np.uint8), np.ones((5, 5), np.uint8))
-hair = cv2.GaussianBlur(hair.astype(np.float32), (0, 0), 1.5 * k)
+hair = cv2.GaussianBlur(hair.astype(np.float32), (0, 0), 1.5 * k) * (1 - ear)
 mask = np.clip(mask - hair, 0, 1)
 
 # --- background plate: inpaint the people out at low res, then blur heavily
@@ -37,6 +45,16 @@ bg_s = cv2.inpaint(cv2.resize(rgb.astype(np.uint8), small, interpolation=cv2.INT
 bg_s = cv2.GaussianBlur(bg_s.astype(np.float32), (0, 0), 14)
 bg = cv2.resize(bg_s, (sw, sh), interpolation=cv2.INTER_CUBIC)
 bg += np.random.default_rng(1).normal(0, 1.2, bg.shape)   # light grain so the blur doesn't band in print
+
+# --- ring: local sharpen + a little sparkle so the halo and pave survive the downscale
+ring = np.zeros((sh, sw), np.float32)
+cv2.ellipse(ring, (int(2068 * k), int(1824 * k)), (int(62 * k), int(40 * k)), -15, 0, 360, 1, -1)
+ring = cv2.GaussianBlur(ring, (0, 0), 8 * k)[..., None]
+soft = cv2.GaussianBlur(rgb, (0, 0), 1.2 * k)
+sharp = np.clip(rgb + 1.4 * (rgb - soft), 0, 255)
+lum = sharp.mean(axis=2, keepdims=True)
+sparkle = np.clip(sharp + 0.25 * np.clip(lum - 150, 0, None), 0, 255)   # lift only the bright stones/metal
+rgb = rgb * (1 - ring) + sparkle * ring
 
 m = mask[..., None]
 out = rgb * m + bg * (1 - m)

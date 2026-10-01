@@ -33,6 +33,7 @@ if CENTER_X is None:                       # centre on the subject's columns
 x0 = max(0, min(sw - cw, round(sw * CENTER_X - cw / 2)))
 box = (x0, 0, x0 + cw, sh)
 img = src.crop(box).resize((W, H), Image.LANCZOS)
+img = img.filter(ImageFilter.UnsharpMask(radius=1.0, percent=60, threshold=2))   # print output sharpening
 mask = np.asarray(Image.open(MASK).convert('L').crop(box).resize((W, H), Image.BILINEAR)) > 128
 
 def shirt_span(top, bottom):
@@ -114,7 +115,7 @@ img.save(os.path.join(OUT, 'save-the-date_5x7_print_bleed.jpg'), quality=97, dpi
 img.save(os.path.join(OUT, 'save-the-date_5x7_print_bleed.pdf'), resolution=DPI)
 trim = img.crop((BLEED, BLEED, W - BLEED, H - BLEED))
 trim.save(os.path.join(OUT, 'save-the-date_5x7_print_trim.jpg'), quality=97, dpi=(DPI, DPI), subsampling=0)
-trim.resize((1200, 1680), Image.LANCZOS).save(os.path.join(OUT, 'save-the-date_text-email.jpg'), quality=88, optimize=True, progressive=True)
+trim.resize((1200, 1680), Image.LANCZOS).filter(ImageFilter.UnsharpMask(radius=0.7, percent=45, threshold=2)).save(os.path.join(OUT, 'save-the-date_text-email.jpg'), quality=88, optimize=True, progressive=True)
 
 # preview with trim (red), safe (blue) and shirt-edge (green) guides
 pv = img.copy(); g = ImageDraw.Draw(pv)
