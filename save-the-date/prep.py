@@ -24,12 +24,13 @@ luma = 0.299 * r + 0.587 * g + 0.114 * b
 cap = (luma > 200) | (b > r + 40)
 # his left ear sits against her braids just left of the brim: protect it
 ear = np.zeros((sh, sw), np.uint8)
-ear_poly = np.array([(1750, 1268), (1762, 1257), (1782, 1257), (1803, 1285), (1805, 1380),
-                     (1790, 1396), (1774, 1384), (1757, 1336), (1748, 1296)], np.float32) * k
+# traced from the original frame: the lit part of the ear between her braids and the brim
+ear_poly = np.array([(1746, 1298), (1747, 1283), (1752, 1273), (1760, 1267), (1772, 1264),
+                     (1786, 1265), (1798, 1272), (1807, 1290), (1807, 1398), (1799, 1403),
+                     (1790, 1400), (1781, 1382), (1768, 1354), (1755, 1331), (1747, 1314)],
+                    np.float32) * k
 cv2.fillPoly(ear, [ear_poly.astype(np.int32)], 1)
-# round the corners, then keep a soft edge so it blends like the other ear
-ear = (cv2.GaussianBlur(ear.astype(np.float32), (0, 0), 5 * k) > 0.5).astype(np.float32)
-ear = cv2.GaussianBlur(ear, (0, 0), 2.0 * k)
+ear = cv2.GaussianBlur(ear.astype(np.float32), (0, 0), 2.0 * k)   # match the lens softness at that depth
 hair = (zone > 0) & ~cap & (mask > 0.2)
 hair = cv2.dilate(hair.astype(np.uint8), np.ones((5, 5), np.uint8))
 hair = cv2.GaussianBlur(hair.astype(np.float32), (0, 0), 1.5 * k) * (1 - ear)
