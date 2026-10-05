@@ -23,7 +23,10 @@ if scale < 1:                                  # light re-sharpen after downsizi
     img = img.filter(ImageFilter.UnsharpMask(radius=0.8, percent=40, threshold=2))
 
 img.save(prefix + '_4x6_bleed.jpg', quality=97, dpi=(DPI, DPI), subsampling=0)
-img.save(prefix + '_4x6_bleed.pdf', resolution=DPI)
+import img2pdf                                 # embed the q97 JPEG as-is (no re-compression)
+with open(prefix + '_4x6_bleed.pdf', 'wb') as f:
+    f.write(img2pdf.convert(prefix + '_4x6_bleed.jpg',
+                            layout_fun=img2pdf.get_layout_fun((img2pdf.in_to_pt(4.25), img2pdf.in_to_pt(6.25)))))
 img.crop((BLEED, BLEED, W - BLEED, H - BLEED)).save(prefix + '_4x6_trim.jpg', quality=97, dpi=(DPI, DPI), subsampling=0)
 g = img.copy(); d = ImageDraw.Draw(g)
 d.rectangle((BLEED, BLEED, W - BLEED, H - BLEED), outline=(255, 0, 0), width=3)
